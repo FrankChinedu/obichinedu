@@ -5,7 +5,7 @@
             <img class="profile-image img-fluid float-left" src="./assets/images/profile.png" alt="Obi chinedu frank" />
             <div class="profile-content float-left">
                 <h1 class="name">Obi Chinedu Frank</h1>
-                <h2 class="desc">Web App Developer</h2>   
+                <h2 class="desc">Web Developer</h2>   
                 <ul class="social list-inline">
                     <li class="list-inline-item"><a href="https://twitter.com/frankieetchy"><i class="fab fa-twitter"></i></a></li>                   
                     <!-- <li class="list-inline-item"><a href="#"><i class="fab fa-google-plus-g"></i></a></li> -->
@@ -26,7 +26,12 @@
                         <h2 class="heading">About Me</h2>
                         <div class="content">
                             <p>
-                              A software engineer with 2+ years of experience in web development and software engineering. I worked with Andela as a software engineer at Andela Nigeria. I currently work at Riby. He is Goal-oriented, a conceptual thinker and very passionate about enhancing human potential, by helping people and organizations grow. Fun guy, Love adventures, passion to learn and meet people. Love to learn about new things.
+                                Hey there, I'm Frank, an enthusiastic developer that loves writing code and living.
+                                 I have 2+ years of experience in web development and software engineering. 
+                                 I worked as a full stack developer at Andela Nigeria. I currently work at Riby. 
+                                 He is Goal-oriented, a conceptual thinker and very passionate about enhancing human potential, 
+                                 by helping people and organizations grow. Fun guy, Love adventures, passion to learn and meet people. 
+                                 Love to learn about new things.
                             </p>
                         </div><!--//content-->
                     </div><!--//section-inner-->                 
