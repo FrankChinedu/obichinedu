@@ -27,8 +27,7 @@
                         <div class="content">
                             <p>
                                 Hey there, I'm Frank, an enthusiastic developer that loves writing code and living.
-                                 I have 2+ years of experience in web development and software engineering. 
-                                 I worked as a full stack developer at Andela Nigeria. 
+                                 I have 3+ years of experience in web development and software engineering. 
                                  I am Goal-oriented, a conceptual thinker, a great team player and very passionate about enhancing human potential 
                                  by helping people and organizations grow. Fun guy, Love adventures, passion to learn and meet people. 
                             </p>
